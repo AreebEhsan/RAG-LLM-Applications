@@ -1,0 +1,19 @@
+----Research Output----
+Timestamp: 2025-07-10 13:18:35
+
+Topic: Transformers LLM
+
+Summary: A large language model (LLM) is a language model trained with self-supervised machine learning on a vast amount of text, designed for natural language processing tasks, especially language generation. The largest and most capable LLMs are generative pretrained transformers (GPTs), which are largely used in generative chatbots such as ChatGPT, Gemini or Claude.
+
+Sources: Wikipedia
+
+Tools Used: Wikipedia
+
+----Research Output----
+Timestamp: 2025-07-10 13:18:38
+
+📝 Topic: Transformers LLM
+🔎 Summary: A large language model (LLM) is a language model trained with self-supervised machine learning on a vast amount of text, designed for natural language processing tasks, especially language generation. The largest and most capable LLMs are generative pretrained transformers (GPTs), which are largely used in generative chatbots such as ChatGPT, Gemini or Claude.
+🌐 Sources: Wikipedia
+🛠️ Tools Used: Wikipedia
+
