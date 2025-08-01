@@ -4,11 +4,10 @@ import streamlit as st
 import PyPDF2 as pypdf
 from langchain.text_splitter import CharacterTextSplitter
 from langchain_community.embeddings import OpenAIEmbeddings
-from langchain_community.vectorstores import FAISS
-from langchain_community.llms import OpenAI
-from langchain_community.callbacks.manager import get_openai_callback
-from langchain.chains.question_answering import load_qa_chain
-
+from langchain.vectorstores import FAISS
+from langchain.chains.question_answering import load_qa_chain   
+from langchain.llms import OpenAI
+from langchain.callbacks import get_openai_callback
 
 def main():
     load_dotenv()
